@@ -1,15 +1,18 @@
-# Álgebra III — Segundo cuatrimestre de 2021
+# Álgebra III
 
-## Prácticas
+Segundo cuatrimestre de 2021
 
-- [Práctica 1](Alg3-Prac1-2021.pdf)
-- [Práctica 2](Alg3-Prac2-2021.pdf)
-- [Práctica 3](Alg3-Prac3-2021.pdf)
-- [Práctica 4](Alg3-Prac4-2021.pdf)
-- [Práctica 5](Alg3-Prac5-2021.pdf)
-- [Práctica 6](Alg3-Prac6-2021.pdf)
-- [Práctica 7](Alg3-Prac7-2021.pdf)
+## 
 
-## Página original
+### Novedades
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2021/algebra_III)
+### 
+
+\
+
+|  |
+| --- |
+|  |
+
+- **Importante:** La materia se dictará a través del [campus virtual](http://campus.exactas.uba.ar).
+  A más tardar el día 11 de agosto enviaremos por mail las instrucciones para matricularse en el campus a quienes se hayan inscripto en el SIU. Si pasada esa fecha no las recibiste y considerás que deberías haberlas recibido (o por cualquier otra consulta) escribir [acá](mailto:msaucedo@dm.uba.ar).- Las clases comienzan el día **martes 17 de agosto**.
